@@ -1,9 +1,5 @@
 # snake
 
-Un snake like codé en javascript
+Un Snake codé en JavaScript pour Smartphone et Pc
 
 [Essayer ?](https://billy.pronaute.com/console/?jeu=snake)
-
-![snake](https://billy.pronaute.com/res/img/snake.gif)
-
-
