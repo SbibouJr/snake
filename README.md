@@ -17,4 +17,4 @@ You can build the project with:
 npm run build
 ```
 
-[**--> TRY <--**](https://billy.pronaute.com/console/?jeu=snake)
+[**--> TRY <--**](https://sbjr-snake-like.netlify.com)
