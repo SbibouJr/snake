@@ -1,9 +1,11 @@
 # Snake Like JS - V.2
 
+## **A snake-like game develops in JavaScript for Smartphone and Pc.**
+
 ![snake](https://raw.githubusercontent.com/SbibouJr/snake/release-2/src/assets/images/imgAccueil.png)
+![help](https://raw.githubusercontent.com/SbibouJr/snake/master/src/assets/images/fondAides.png)
 
-**A snake-like game develops in JavaScript for Smartphone and Pc.**
-
+## Try Game: [**https://sbjr-snake-like.netlify.com**](https://sbjr-snake-like.netlify.com)
 
 You can run the projet in dev mode with:
 
@@ -17,4 +19,4 @@ You can build the project with:
 npm run build
 ```
 
-[**--> TRY <--**](https://sbjr-snake-like.netlify.com)
+**Have Fun**
