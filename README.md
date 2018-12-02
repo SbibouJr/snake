@@ -1,6 +1,6 @@
 # Snake Like JS - V.2
 
-![snake](https://billy.pronaute.com/console/?jeu=snake)
+![snake](https://raw.githubusercontent.com/SbibouJr/snake/release-2/src/assets/images/imgAccueil.png)
 
 **A snake-like game develops in JavaScript for Smartphone and Pc.**
 
