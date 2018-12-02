@@ -7,6 +7,7 @@ module.exports = (env, args) => ({
   plugins: [
     new HtmlWebpackPlugin({
       template: 'src/index.html',
+      favicon: 'src/favicon.ico',
       chunksSortMode: 'none',
       minify: {
         removeComments: true,
